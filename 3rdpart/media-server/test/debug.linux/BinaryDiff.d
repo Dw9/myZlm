@@ -1,0 +1,1 @@
+BinaryDiff.o: BinaryDiff.cpp

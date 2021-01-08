@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
